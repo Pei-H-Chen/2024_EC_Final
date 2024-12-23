@@ -1,0 +1,3 @@
+[submodule "RPGGame"]
+	path = RPGGame
+	url = https://github.com/ocnhfa/RPGGame.git
